@@ -34,7 +34,7 @@ This project can be adapted for practical use in:
 - **Event Management**: Enforcing health guidelines in large gatherings and ensuring compliance.
 
 ## Dataset Consideration
-Due to the size of the dataset, which contains thousands of high-resolution images, it is stored on Google Drive. This setup allows efficient access and processing, leveraging cloud storage to manage large data files without overwhelming local resources.
+Due to the size of the dataset, which contains thousands of high-resolution images, it is stored on Google Drive. This setup allows efficient access and processing, leveraging cloud storage to manage large data files without overwhelming local resources. You can view or download the dataset from [this Google Drive link](https://drive.google.com/drive/folders/1Bt566RAQ1pLNUkozJtEMOumLZZhz-PxZ?usp=sharing).
 
 ## How to Use
 This model can be used independently to analyze images for mask compliance. For real-time applications, it could be integrated with camera feeds to monitor multiple individuals continuously. The model can also be part of a larger system focused on health compliance and safety monitoring.
