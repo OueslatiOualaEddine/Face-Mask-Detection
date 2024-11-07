@@ -27,6 +27,15 @@ The main objective of this project is to automatically detect the presence or ab
 - **Automated Monitoring**: Can be integrated into security or surveillance systems for automated mask detection.
 - **Versatile Applications**: Useful for various industries, including healthcare, transportation, and event management, where mask compliance is important.
 
+## Technologies Used
+- **Python**: Primary programming language for data processing, model training, and evaluation.
+- **TensorFlow/Keras**: Used to build and train the Convolutional Neural Network (CNN) model for image classification.
+- **OpenCV**: For image preprocessing and manipulation, such as resizing and scaling.
+- **NumPy**: For handling numerical data and array operations.
+- **Pandas**: Used for data manipulation and handling structured datasets.
+- **Matplotlib/Seaborn**: Visualization libraries used to explore data distributions and relationships.
+- **Google Drive Integration**: Cloud storage solution to handle the large dataset efficiently.
+
 ## Potential Applications
 This project can be adapted for practical use in:
 - **Security and Surveillance Systems**: To automatically detect and alert staff when individuals are not wearing masks.
